@@ -1,0 +1,3 @@
+/home/aurora/task5/code/build/CMakeFiles/basketball_detect.dir
+/home/aurora/task5/code/build/CMakeFiles/edit_cache.dir
+/home/aurora/task5/code/build/CMakeFiles/rebuild_cache.dir
